@@ -31,4 +31,5 @@ func main() {
 	fmt.Println(name4)
 	fmt.Printf("%v ---- %v\n", Name1, Name2)
 	fmt.Println(name2, name3, Name1, Name2)
+	fmt.Println(name4)
 }
